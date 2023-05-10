@@ -1,0 +1,60 @@
+/**
+ * @name Discord Amolde Theme (PC)
+ * @author Z*ack_nap#8687
+ * @version 1.0.0
+ * @description Amolde Theme for PC
+ * @source https://youtube.com/@zack_nap
+ * @invite atix
+ * @website https://youtube.com/@zack_nap
+ * @authorId 1077233107926790236
+ * @BDEditor Amolde
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Gloria Hallelujah:wght@100;300;400;500;700&display=swap');
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+
+:root {
+  --background-image: None;
+  --background-image-blur: 0px;
+  --background-image-size: cover;
+  --background-image-position: center;
+  --popout-image: var(--background-image);
+  --popout-image-blur: 5px;
+  --popout-image-size: cover;
+  --popout-image-position: center;
+  --overlay-image: var(--background-image);
+  --overlay-image-blur: 6px;
+  --background-colour: black;
+  --overlay-image-size: cover;
+  --overlay-image-position: center;
+  --home-button-image: url('https://gibbu.github.io/BetterDiscord-Themes/FrostedGlass/assets/discord.svg');
+  --home-button-size: cover;
+  --home-button-position: center;
+  --serverlist-brightness: 0.96;
+  --left-brightness: 1;
+  --middle-brightness: 1;
+  --right-brightness: 1;
+  --overlay-brightness: 1;
+  --gradient-primary: 00,00,1;
+  --gradient-secondary: 00,00,50;
+  --link-colour: rgb(0, 255, 64);
+  --scrollbar-colour: rgba(00,00,50);
+  --gradient-direction: 360deg;
+  --tint-colour: black;
+  --tint-brightness: 10;
+  --font: sans-serif;
+  --window-padding: 0px;
+  --window-roundness: 10px;
+  --update-notice-1: none;
+
+}
+
+
+
+/* Any custom CSS below here */
+
+
+/* Gloria Hallelujah, 255,255,255,0.05 */
+
+
